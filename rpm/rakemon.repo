@@ -1,0 +1,6 @@
+[rakemon]
+name=rakemon Package Repository
+baseurl=https://rustyhorde.github.io/rakemon-packages/rpm/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=https://rustyhorde.github.io/rakemon-packages/gpg.key
