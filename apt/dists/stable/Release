@@ -1,0 +1,28 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Fri, 03 Jul 2026 00:26:53 +0000
+Description: rakemon package repository
+Label: rakemon
+Origin: rakemon
+Suite: stable
+MD5Sum:
+ 8942c85e5022eedf39684b69e8183a23              184 Release
+ 68d77b950aff4dfcb946a3284af7c76d             3160 main/binary-arm64/Packages
+ 17c6c304bc8c683bfe4d153583c7dae3             1186 main/binary-arm64/Packages.gz
+ af4d045746d69f570ef8b6bba34d4566             1204 main/binary-arm64/Packages.xz
+SHA1:
+ e4729312eb9ea53f7ef4d68607c1fe84e66d5afd              184 Release
+ e2736600f3288a0f419dcceb56fcdf2e0fcc2ae7             3160 main/binary-arm64/Packages
+ 717a8fbf44e5120a35ec65641b3bd3493a3d4f7c             1186 main/binary-arm64/Packages.gz
+ ab0c97418764676757797ce3d377364a80b7bb95             1204 main/binary-arm64/Packages.xz
+SHA256:
+ 4653d467344c1ff904a5d18445bfd1c32e8be6a7190aca6f0fa2f993a1037c69              184 Release
+ 99921352a3bac4782b6f31dfb0a4dc1e24d28da213237e6981d318e412dae6bf             3160 main/binary-arm64/Packages
+ 227d10b1320d27cd9342b035800629b5d85379eb1b6d15da6ceacfc8c8fc420d             1186 main/binary-arm64/Packages.gz
+ 968562184945c5a221b10696855c0b929aa011cd9068198a480a31792ffa47e0             1204 main/binary-arm64/Packages.xz
+SHA512:
+ 620d6b004363fd4168a1a5375d1147ec0e8c70ab49a7c53ef86282e752dcda54331b10995e3d9de9b0e113c8760647820921e5ffc2b3d54e4a624366bda57e71              184 Release
+ 509543b1468afc823ca28b7dbf8bb5f5bf1acd879c53bde67d9e41f13469c6bb026d6ba3a68252c25a16aff3499b45951017b09f8bd3b0376e702b70ccfd4e29             3160 main/binary-arm64/Packages
+ 7cd8c018dc4d64a40ff939264c635d343d7cea92d7e70f9ebad0d4109404f366965fc1f53ccea51f538fe58abf987362e9b81e90b535186f8b3e0346cca8f3a6             1186 main/binary-arm64/Packages.gz
+ 4380dce5e38a0c0b35be724b2761c72b3cfec5d65c6ef41eb60f2dc2e5e07a4bb5650b8c11dbfe2919e04d16a032c2f69fc97523df15635f0cf79ef6b4333e39             1204 main/binary-arm64/Packages.xz
