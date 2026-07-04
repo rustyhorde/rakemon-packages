@@ -1,19 +1,19 @@
 Package: rakemon-unstable
 Architecture: amd64
-Version: 0.1.2
+Version: 0.1.3
 Priority: optional
 Section: devel
 Maintainer: Jason Ozias <jason.g.ozias@pm.me>
-Installed-Size: 3729
+Installed-Size: 3735
 Provides: rakemon
 Conflicts: rakemon
 Replaces: rakemon
-Filename: pool/main/rakemon-unstable_0.1.2_amd64.deb
-Size: 1292256
-MD5sum: 2e5545a8bb52b86127093a4b0ed96fb7
-SHA1: f73f1c8164cbe13f0491f17ebef11826e241c646
-SHA256: e2f4461c2bb0bb7ff2111b7f105415d8727638479a3ad30f7959ce160c4f4085
-SHA512: 2ef23b97cbb80f11ee2bceb62e0baf04c39be0197bd73b079df7f77d9ec2a6156f4f458df65c7c0accad52ab79fa0c5c7b41c06bd12df3ce97b5c74e47fdce09
+Filename: pool/main/rakemon-unstable_0.1.3_amd64.deb
+Size: 1293180
+MD5sum: 08e18de363fd6e0b871d7b87ba91a61f
+SHA1: bbf0e5034f34b80005bfa0127a9b04c8e2487c56
+SHA256: 685229e4da80a12004cbb75e299bd0ba478a8ee538ba283690073d2ec859dcd9
+SHA512: b4ab3cb182bab3ca6d4796415e66e770e429b1064ad129fb667c42767491f94803aacbaae4f96f8e220c2ef00feccfda5aa76758beb53f3f3c6ea871b2681efb
 Homepage: https://github.com/rustyhorde/rakemon
 Description: Terminal dashboard for cargo-rake lifecycle events (unstable build).
  Listens on a UDP socket for JSON lifecycle events and renders them live as
@@ -22,20 +22,20 @@ License: proprietary
 
 Package: rakemon-unstable
 Architecture: arm64
-Version: 0.1.2
+Version: 0.1.3
 Priority: optional
 Section: devel
 Maintainer: Jason Ozias <jason.g.ozias@pm.me>
-Installed-Size: 3645
+Installed-Size: 3650
 Provides: rakemon
 Conflicts: rakemon
 Replaces: rakemon
-Filename: pool/main/rakemon-unstable_0.1.2_arm64.deb
-Size: 1170544
-MD5sum: fbb4bbe03b943c1bad268d53ddf30661
-SHA1: 1157adc461401aa95f47340c9294862690a5ad08
-SHA256: c05ff06f25c80d0c80b2463530eeb05aec7ba6705eff3e2e72003c697df7f5f9
-SHA512: 21b869eff9cafe2789d3fe52c9c311efc774ab6d0d76b95204ab8079cfe8af7b0d0310390cb78c114daeeb7002e6d545ae6be1f83f4c9645811efed3dba83a75
+Filename: pool/main/rakemon-unstable_0.1.3_arm64.deb
+Size: 1172880
+MD5sum: f999d1141df97c574a555dafd07080b9
+SHA1: bb6c0d1f28f75a2e8ae1af52a322a8087fc15e0b
+SHA256: 3cfc807ff3ad092be395dcbcf7196e099682edcd1aa73adac12fb2438a3ba3e6
+SHA512: bf5ce5906b7dad70dd10bbc3a2639ec0e84853d2ed4c8851a3a20226082941752b4a6c4404a24dd1373ecf8f1aa4cd33e6b753639453ae5fb4e781aad9375ff4
 Homepage: https://github.com/rustyhorde/rakemon
 Description: Terminal dashboard for cargo-rake lifecycle events (unstable build).
  Listens on a UDP socket for JSON lifecycle events and renders them live as
@@ -44,17 +44,17 @@ License: proprietary
 
 Package: rakemon
 Architecture: amd64
-Version: 0.1.2
+Version: 0.1.3
 Priority: optional
 Section: devel
 Maintainer: Jason Ozias <jason.g.ozias@pm.me>
-Installed-Size: 3730
-Filename: pool/main/rakemon_0.1.2_amd64.deb
-Size: 1292258
-MD5sum: e002ba7da9d42d5b8dfc504e411c666f
-SHA1: 414247f8fe45276e04d4675ddd9883d729732e95
-SHA256: eaa6c277e6a68874d590772c37150240f17ccb6a73aed3666e4e87262a3c9538
-SHA512: 7d05ad820f1c17f290bfe6d9beeb8d40e751e082e7991e00a97dfa30a00a00f302dddbf35876e3bf16954556cb7bace5f741f9482937f1816135cb2abdae08fc
+Installed-Size: 3734
+Filename: pool/main/rakemon_0.1.3_amd64.deb
+Size: 1293072
+MD5sum: 1515cde9f6baa5f0886ead7a5624255c
+SHA1: 31629ed935d3271b84cace15fdd2af9b43bafc47
+SHA256: b71c5a68bc2de4a949c2d7dae95226cb6e309ec0e3b188640e95471e1f270898
+SHA512: acfe49feca48c52dd9b5066e9fde34dbb4c75a2fc02fc07d57eaba6efdd927ecac36aaa40fc9c610d74e64bfb0c2cd8a7e519fb7be07fa9cdec4afe5adadbd96
 Homepage: https://github.com/rustyhorde/rakemon
 Description: Terminal dashboard for cargo-rake lifecycle events. Listens on a UDP
  socket for JSON lifecycle events and renders them live as a
@@ -63,17 +63,17 @@ License: proprietary
 
 Package: rakemon
 Architecture: arm64
-Version: 0.1.2
+Version: 0.1.3
 Priority: optional
 Section: devel
 Maintainer: Jason Ozias <jason.g.ozias@pm.me>
-Installed-Size: 3644
-Filename: pool/main/rakemon_0.1.2_arm64.deb
-Size: 1170640
-MD5sum: 088ba0537873b200e5bb41c21d010be6
-SHA1: 7558363a0ca73587516aadaea3e1e3ad8b69bf44
-SHA256: 366eca1225a8d08d4a75f513770c3af3d6385b047f48c2e864138551fbf02a2f
-SHA512: fd989ac27a6ff11391f3d31ab580b263256530ae70587db7cc6e60f015f7cc01b0a5741b8f931ee17ec3ce65fbad6f6f9ccb3f7f9df1b78e2eac471d17512c51
+Installed-Size: 3649
+Filename: pool/main/rakemon_0.1.3_arm64.deb
+Size: 1172656
+MD5sum: 3407b5b519d2a56de9acd623becadb2b
+SHA1: 89a86c55a0486b5385b0517a0685c639d48189f8
+SHA256: a02953f3014454a219cfcb3ca94528cd2457882a03dd0d853f3b930e29fcbd54
+SHA512: f2572cc4e5ea1a7bfb1b595b4c2febd23fa88994adf7eda97ea4e1bfa8a1bb4be76b071b9e917c1b52a648f4fcfa61cd28659f752267cf6683e7abe53bad20a2
 Homepage: https://github.com/rustyhorde/rakemon
 Description: Terminal dashboard for cargo-rake lifecycle events. Listens on a UDP
  socket for JSON lifecycle events and renders them live as a

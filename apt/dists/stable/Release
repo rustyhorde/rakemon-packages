@@ -1,28 +1,28 @@
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Sat, 04 Jul 2026 21:30:22 +0000
+Date: Sat, 04 Jul 2026 22:26:37 +0000
 Description: rakemon package repository
 Label: rakemon
 Origin: rakemon
 Suite: stable
 MD5Sum:
- 8e91d73ac278071a41c7f96ccc0c91aa              184 Release
- a22455d85b499ed523a17f8d8f10dff6             3164 main/binary-arm64/Packages
- 108e2deb913dae185c595b42a93b3c04             1192 main/binary-arm64/Packages.gz
- 2390236232a2beef53ecca1914538c7c             1212 main/binary-arm64/Packages.xz
+ ed3082efbda26d25dd90ca6c921c4957              184 Release
+ c04e99206818427be1032b4ed48696b1             3164 main/binary-arm64/Packages
+ 99e00a2574d6564cf058fee4c2ec9533             1186 main/binary-arm64/Packages.gz
+ 1d6079df3b531609998731eee2589aab             1212 main/binary-arm64/Packages.xz
 SHA1:
- 8a9b381076c23ec34d220080a444e451b695ad83              184 Release
- 748b5b83d453654b062323f0709f487addeeee51             3164 main/binary-arm64/Packages
- de14cc34b64e4d9da8234b462ca0d30a9234e3b1             1192 main/binary-arm64/Packages.gz
- 5fef62cd555e44e2715bc9dbad24ee71168a67ce             1212 main/binary-arm64/Packages.xz
+ 8782bca64146b2b600e66cb4101f83f2a5d489e2              184 Release
+ f88ff337bf65f7445234b203d6699758f564f9d4             3164 main/binary-arm64/Packages
+ 9d4f5f9ba7b8ba298f12d8a2cfaa64cfffa09e42             1186 main/binary-arm64/Packages.gz
+ dc28d83ba7b655618c685ce49120389ba9b9bdcf             1212 main/binary-arm64/Packages.xz
 SHA256:
- 0e98c181bebc3096b943ec7ada5029f98644e043404d822af69610c4417fec0d              184 Release
- 8f0fd67811ff6d8d76a308e4eff1b2396ec2cda4ed3ecd29662e35c48850a85b             3164 main/binary-arm64/Packages
- df9ad42fb549405f173f30a7002efcd00bffe08073bad7f7a78b0edfb443ac66             1192 main/binary-arm64/Packages.gz
- 6a5b5092297294b619815020abfb3b258e7521f3edfa7d32fe532550661d7060             1212 main/binary-arm64/Packages.xz
+ 24c43398f03321bd9f93e12bca1d4b6f6d7ef812099131e600533550a1be8477              184 Release
+ 02d22403aef617e7f67f020e7ef28129964af3a49fa1a0acfd3ebf55075422f0             3164 main/binary-arm64/Packages
+ aaa738eb5ac9450777f8a2ad1972eeb5f8aaec4a15addddbd059d98c928ebcbd             1186 main/binary-arm64/Packages.gz
+ bc3cb638543b4ddfd4e0ea891cf1a56cccd249d56fbbcd8b6d08414ffc8a1d52             1212 main/binary-arm64/Packages.xz
 SHA512:
- ddaa53f16804e89d67bd548adeda0e2d864d647c42e1c9f423808b29087f121a7282ae147b1b939dc88ffb53862109f0e038ca8e2b81f0745f28e94f576a5c6a              184 Release
- d361297f9fce2068c05868cad9e00f2fded13a54e6d49d9bc1e842ff9b737a9b456cc8a94ee3680efa04fd85495b307b702705c216d0aa9df3b6d5d0482c6732             3164 main/binary-arm64/Packages
- e9ff91c1fdf45632245e4b15f73c0dc15c0587d9fe9cf234d2a7f13cc372eac6d318a7295b91f90f3b6574173dc276d02dac9d31bab37924cb9f276ea9365c01             1192 main/binary-arm64/Packages.gz
- f9839bea86b7850a91add9c2db78c9b805a41a3df42c2f35da3fd4d6d6e80f77fc2b6119ef20c30296708a38f92af60966beb34bb4ba6d973210a4d1a181ee4b             1212 main/binary-arm64/Packages.xz
+ 6e0c45a13c237971f7931b3c9848f5cc96053d1d18cbd6586f33561e2f1ddd3e7ae050c91cde9d099af384e1646551f1b7e910dc7d9dcb48e2075f570fb76922              184 Release
+ e29a92be9e744438841f899438bb9c8d020a19d06e09ff2054074b1f6777e2e2ec5d5e32e4392192f7066df733daa0b79cf9f85c5a5529821903549b6d8d23c7             3164 main/binary-arm64/Packages
+ 68d8f69c28f6747b080bb44acd36fa2e8c9dc9ea1c912552ee5566a2fe1509687cd548b0ae1f34c4ffeb00f9bca9bc9677f32276c77981c65690487336be716c             1186 main/binary-arm64/Packages.gz
+ bf6b33bda132fc4b9d4cc4f471fb2636068f9fcba00bc9786b17aee95f6ec01648749fb5004289516c3fae5362bab403069eb6b46a2935bca6e737d920297de0             1212 main/binary-arm64/Packages.xz
